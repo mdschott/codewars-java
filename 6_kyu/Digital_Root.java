@@ -1,4 +1,4 @@
-*/
+/*
 In this kata, you must create a digital root function.
 
 A digital root is the recursive sum of all the digits in a number. 
